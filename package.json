@@ -1,0 +1,20 @@
+{
+  "name": "telegramnode",
+  "version": "1.0.0",
+  "description": "bot de telegram con node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Telegram",
+    "node",
+    "bot"
+  ],
+  "author": "Dayana",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
